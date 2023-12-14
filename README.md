@@ -1,3 +1,11 @@
+Setup:
+
+```
+$ npm i
+```
+
+---
+
 This works:
 
 ```
